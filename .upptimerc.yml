@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: staging11
-    url: https://staging11.algebraix.com
+    url: https://staging11.algebraix.com/bin/g/start/default/?x_load=0
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
