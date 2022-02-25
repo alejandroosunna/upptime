@@ -3,16 +3,38 @@ owner: alejandroosunna # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: staging01
+    url: https://staging01.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging02
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging03
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging04
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging05
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging06
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging07
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging08
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging09
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging10
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
   - name: staging11
-    url: https://staging11.algebraix.com/bin/g/start/default/?x_load=0
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging12
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging13
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging14
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging15
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
+  - name: staging16
+    url: https://staging02.algebraix.com/bin/g/start/default/?x_load=0
     
 assignees:
   - alejandroosunna
