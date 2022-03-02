@@ -42,19 +42,19 @@
     "url": "https://staging03.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://favicons.githubusercontent.com/staging03.algebraix.com",
     "slug": "staging03",
-    "status": "down",
-    "uptime": "97.52%",
-    "uptimeDay": "86.61%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "97.52%",
-    "time": 356,
-    "timeDay": 405,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "97.29%",
+    "uptimeDay": "85.30%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
+    "time": 358,
+    "timeDay": 406,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-03-02": 192
+      "2022-03-02": 211
     }
   },
   {
@@ -134,17 +134,17 @@
     "url": "https://staging08.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://favicons.githubusercontent.com/staging08.algebraix.com",
     "slug": "staging08",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "96.34%",
+    "uptimeDay": "96.33%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.32%",
-    "time": 280,
-    "timeDay": 365,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "time": 290,
+    "timeDay": 372,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2022-03-02": 52
     }
@@ -155,18 +155,18 @@
     "icon": "https://favicons.githubusercontent.com/staging09.algebraix.com",
     "slug": "staging09",
     "status": "down",
-    "uptime": "96.61%",
-    "uptimeDay": "81.66%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "96.61%",
+    "uptime": "96.37%",
+    "uptimeDay": "80.33%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "96.37%",
     "time": 346,
     "timeDay": 389,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-03-02": 264
+      "2022-03-02": 283
     }
   },
   {
