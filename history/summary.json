@@ -42,17 +42,17 @@
     "url": "https://staging03.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://favicons.githubusercontent.com/staging03.algebraix.com",
     "slug": "staging03",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "85.30%",
+    "uptimeDay": "85.28%",
     "uptimeWeek": "97.29%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "97.29%",
-    "time": 358,
+    "time": 360,
     "timeDay": 406,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2022-03-02": 211
     }
@@ -134,19 +134,19 @@
     "url": "https://staging08.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://favicons.githubusercontent.com/staging08.algebraix.com",
     "slug": "staging08",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
-    "time": 290,
-    "timeDay": 372,
-    "timeWeek": 290,
-    "timeMonth": 290,
-    "timeYear": 290,
+    "status": "up",
+    "uptime": "99.23%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
+    "time": 297,
+    "timeDay": 376,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2022-03-02": 52
+      "2022-03-02": 59
     }
   },
   {
@@ -155,18 +155,18 @@
     "icon": "https://favicons.githubusercontent.com/staging09.algebraix.com",
     "slug": "staging09",
     "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "80.33%",
-    "uptimeWeek": "96.37%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "96.37%",
+    "uptime": "96.28%",
+    "uptimeDay": "79.83%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "96.28%",
+    "uptimeYear": "96.28%",
     "time": 346,
     "timeDay": 389,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2022-03-02": 283
+      "2022-03-02": 290
     }
   },
   {
