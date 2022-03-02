@@ -40,19 +40,19 @@
     "url": "https://staging03.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://favicons.githubusercontent.com/staging03.algebraix.com",
     "slug": "staging03",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 289,
-    "timeDay": 408,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "status": "up",
+    "uptime": "99.30%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 304,
+    "timeDay": 418,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-03-02": 35
+      "2022-03-02": 51
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://staging09.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://favicons.githubusercontent.com/staging09.algebraix.com",
     "slug": "staging09",
-    "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 266,
-    "timeDay": 357,
-    "timeWeek": 266,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.09%",
+    "time": 277,
+    "timeDay": 364,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {
-      "2022-03-02": 51
+      "2022-03-02": 67
     }
   },
   {
