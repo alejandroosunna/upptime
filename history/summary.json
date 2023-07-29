@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging01.algebraix.com.ico",
     "slug": "staging01",
     "status": "up",
-    "uptime": "51.38%",
-    "uptimeDay": "86.56%",
-    "uptimeWeek": "50.73%",
-    "uptimeMonth": "46.41%",
+    "uptime": "51.39%",
+    "uptimeDay": "87.33%",
+    "uptimeWeek": "51.76%",
+    "uptimeMonth": "46.43%",
     "uptimeYear": "62.67%",
     "time": 491,
-    "timeDay": 443,
+    "timeDay": 436,
     "timeWeek": 465,
     "timeMonth": 467,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2023-07-28": 194,
+      "2023-07-28": 186,
       "2023-07-27": 205,
       "2023-07-26": 156,
       "2023-07-25": 228,
@@ -184,7 +184,7 @@
     "uptime": "54.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.15%",
+    "uptimeMonth": "27.94%",
     "uptimeYear": "67.70%",
     "time": 495,
     "timeDay": 483,
@@ -192,7 +192,8 @@
     "timeMonth": 489,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2023-07-28": 1413,
+      "2023-07-29": 69,
+      "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
@@ -320,8 +321,7 @@
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
-      "2022-07-30": 1440,
-      "2022-07-29": 1440
+      "2022-07-30": 1440
     }
   },
   {
@@ -647,7 +647,7 @@
     "uptime": "93.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "27.79%",
+    "uptimeMonth": "28.01%",
     "uptimeYear": "91.15%",
     "time": 400,
     "timeDay": 617,
@@ -698,11 +698,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging07.algebraix.com.ico",
     "slug": "staging07",
     "status": "up",
-    "uptime": "33.68%",
+    "uptime": "33.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.25%",
-    "uptimeMonth": "82.58%",
-    "uptimeYear": "33.79%",
+    "uptimeMonth": "82.80%",
+    "uptimeYear": "33.81%",
     "time": 400,
     "timeDay": 476,
     "timeWeek": 458,
@@ -959,8 +959,7 @@
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
-      "2022-07-30": 1440,
-      "2022-07-29": 1440
+      "2022-07-30": 1440
     }
   },
   {
@@ -969,11 +968,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging08.algebraix.com.ico",
     "slug": "staging08",
     "status": "up",
-    "uptime": "35.27%",
+    "uptime": "35.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "45.98%",
+    "uptimeWeek": "46.93%",
     "uptimeMonth": "61.98%",
-    "uptimeYear": "32.23%",
+    "uptimeYear": "32.25%",
     "time": 364,
     "timeDay": 468,
     "timeWeek": 468,
@@ -1232,8 +1231,7 @@
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
-      "2022-07-30": 1440,
-      "2022-07-29": 1440
+      "2022-07-30": 1440
     }
   },
   {
@@ -1242,11 +1240,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging09.algebraix.com.ico",
     "slug": "staging09",
     "status": "up",
-    "uptime": "23.64%",
+    "uptime": "23.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.81%",
-    "uptimeYear": "24.92%",
+    "uptimeYear": "24.93%",
     "time": 381,
     "timeDay": 484,
     "timeWeek": 489,
@@ -1531,8 +1529,7 @@
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
-      "2022-07-30": 1440,
-      "2022-07-29": 1440
+      "2022-07-30": 1440
     }
   },
   {
@@ -1787,7 +1784,7 @@
     "status": "up",
     "uptime": "91.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.06%",
+    "uptimeWeek": "63.01%",
     "uptimeMonth": "79.53%",
     "uptimeYear": "87.85%",
     "time": 354,
@@ -1871,7 +1868,7 @@
     "status": "up",
     "uptime": "93.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.06%",
+    "uptimeWeek": "63.01%",
     "uptimeMonth": "79.72%",
     "uptimeYear": "91.53%",
     "time": 392,
@@ -1937,7 +1934,7 @@
     "status": "up",
     "uptime": "92.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.06%",
+    "uptimeWeek": "63.01%",
     "uptimeMonth": "69.87%",
     "uptimeYear": "89.40%",
     "time": 374,
