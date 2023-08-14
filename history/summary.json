@@ -8,7 +8,7 @@
     "uptime": "50.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.28%",
+    "uptimeMonth": "19.26%",
     "uptimeYear": "59.02%",
     "time": 494,
     "timeDay": 455,
@@ -16,7 +16,8 @@
     "timeMonth": 482,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2023-08-13": 1432,
+      "2023-08-14": 0,
+      "2023-08-13": 1440,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
@@ -346,7 +347,7 @@
     "uptime": "88.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.99%",
+    "uptimeMonth": "56.97%",
     "uptimeYear": "83.54%",
     "time": 441,
     "timeDay": 469,
@@ -354,7 +355,8 @@
     "timeMonth": 449,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2023-08-13": 1432,
+      "2023-08-14": 0,
+      "2023-08-13": 1440,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
@@ -428,7 +430,7 @@
     "status": "up",
     "uptime": "92.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.11%",
+    "uptimeWeek": "62.20%",
     "uptimeMonth": "71.28%",
     "uptimeYear": "89.29%",
     "time": 490,
@@ -690,19 +692,20 @@
     "url": "https://staging06.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://icons.duckduckgo.com/ip3/staging06.algebraix.com.ico",
     "slug": "staging06",
-    "status": "down",
+    "status": "up",
     "uptime": "93.75%",
-    "uptimeDay": "90.98%",
-    "uptimeWeek": "84.84%",
+    "uptimeDay": "90.44%",
+    "uptimeWeek": "84.76%",
     "uptimeMonth": "66.29%",
-    "uptimeYear": "90.85%",
+    "uptimeYear": "90.84%",
     "time": 404,
-    "timeDay": 380,
+    "timeDay": 377,
     "timeWeek": 421,
     "timeMonth": 419,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-08-13": 130,
+      "2023-08-14": 0,
+      "2023-08-13": 138,
       "2023-08-12": 162,
       "2023-08-11": 138,
       "2023-08-10": 295,
@@ -755,7 +758,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging07.algebraix.com.ico",
     "slug": "staging07",
     "status": "up",
-    "uptime": "34.86%",
+    "uptime": "34.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.76%",
     "uptimeMonth": "71.38%",
@@ -1009,8 +1012,7 @@
       "2022-08-18": 1440,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
-      "2022-08-15": 1440,
-      "2022-08-14": 1440
+      "2022-08-15": 1440
     }
   },
   {
@@ -1280,8 +1282,7 @@
       "2022-08-18": 1440,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
-      "2022-08-15": 1440,
-      "2022-08-14": 1440
+      "2022-08-15": 1440
     }
   },
   {
@@ -1567,8 +1568,7 @@
       "2022-08-18": 1440,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
-      "2022-08-15": 1440,
-      "2022-08-14": 1440
+      "2022-08-15": 1440
     }
   },
   {
@@ -1925,7 +1925,7 @@
     "status": "up",
     "uptime": "99.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.62%",
+    "uptimeWeek": "81.70%",
     "uptimeMonth": "85.92%",
     "uptimeYear": "98.83%",
     "time": 379,
@@ -1948,7 +1948,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging16.algebraix.com.ico",
     "slug": "staging16",
     "status": "up",
-    "uptime": "92.28%",
+    "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "62.17%",
