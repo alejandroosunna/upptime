@@ -285,7 +285,7 @@
     "timeMonth": 379,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2023-12-05": 1189,
+      "2023-12-05": 1197,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -470,16 +470,16 @@
     "url": "https://staging04.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://icons.duckduckgo.com/ip3/staging04.algebraix.com.ico",
     "slug": "staging04",
-    "status": "up",
+    "status": "down",
     "uptime": "92.53%",
-    "uptimeDay": "53.95%",
+    "uptimeDay": "53.93%",
     "uptimeWeek": "91.11%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "86.73%",
     "time": 459,
-    "timeDay": 468,
+    "timeDay": 467,
     "timeWeek": 504,
-    "timeMonth": 498,
+    "timeMonth": 497,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2023-12-05": 664,
@@ -558,8 +558,7 @@
       "2023-02-04": 26,
       "2023-02-03": 18,
       "2023-01-30": 16,
-      "2023-01-23": 41,
-      "2023-01-20": 15
+      "2023-01-23": 41
     }
   },
   {
@@ -762,7 +761,7 @@
     "uptime": "93.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.72%",
+    "uptimeMonth": "44.74%",
     "uptimeYear": "88.35%",
     "time": 414,
     "timeDay": 617,
@@ -841,7 +840,7 @@
     "uptime": "35.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.70%",
+    "uptimeMonth": "44.71%",
     "uptimeYear": "35.59%",
     "time": 382,
     "timeDay": 635,
@@ -1199,7 +1198,7 @@
     "timeMonth": 349,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2023-12-05": 1190,
+      "2023-12-05": 1197,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
