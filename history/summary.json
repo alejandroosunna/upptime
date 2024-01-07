@@ -272,18 +272,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging03.algebraix.com.ico",
     "slug": "staging03",
     "status": "down",
-    "uptime": "69.43%",
+    "uptime": "69.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.54%",
+    "uptimeYear": "43.52%",
     "time": 433,
     "timeDay": 306,
     "timeWeek": 431,
     "timeMonth": 433,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-01-06": 1414,
+      "2024-01-07": 64,
+      "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -504,12 +505,12 @@
     "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.09%",
+    "uptimeMonth": "78.27%",
     "uptimeYear": "95.35%",
     "time": 461,
     "timeDay": 455,
     "timeWeek": 539,
-    "timeMonth": 518,
+    "timeMonth": 533,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2023-12-13": 969,
@@ -555,7 +556,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.46%",
+    "uptimeYear": "66.48%",
     "time": 436,
     "timeDay": 427,
     "timeWeek": 508,
@@ -702,8 +703,7 @@
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-08": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.40%",
+    "uptimeYear": "44.42%",
     "time": 387,
     "timeDay": 240,
     "timeWeek": 535,
@@ -1027,8 +1027,7 @@
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-08": 1440
     }
   },
   {
@@ -1109,7 +1108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging09.algebraix.com.ico",
     "slug": "staging09",
     "status": "down",
-    "uptime": "31.47%",
+    "uptime": "31.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1120,7 +1119,8 @@
     "timeMonth": 400,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-01-06": 1414,
+      "2024-01-07": 65,
+      "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
@@ -1339,8 +1339,7 @@
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-08": 1440
     }
   },
   {
@@ -1393,7 +1392,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.08%",
+    "uptimeYear": "97.09%",
     "time": 420,
     "timeDay": 323,
     "timeWeek": 455,
@@ -1422,8 +1421,7 @@
       "2023-03-06": 435,
       "2023-03-03": 235,
       "2023-01-09": 1019,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-08": 1440
     }
   },
   {
@@ -1478,7 +1476,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.10%",
+    "uptimeYear": "94.11%",
     "time": 379,
     "timeDay": 246,
     "timeWeek": 500,
@@ -1516,8 +1514,7 @@
       "2023-01-11": 1228,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-08": 1440
     }
   },
   {
@@ -1525,19 +1522,20 @@
     "url": "https://staging14.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://icons.duckduckgo.com/ip3/staging14.algebraix.com.ico",
     "slug": "staging14",
-    "status": "up",
+    "status": "down",
     "uptime": "92.96%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "89.82%",
     "time": 364,
-    "timeDay": 364,
+    "timeDay": 363,
     "timeWeek": 353,
-    "timeMonth": 380,
+    "timeMonth": 379,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-01-06": 73,
+      "2024-01-07": 1,
+      "2024-01-06": 63,
       "2024-01-05": 72,
       "2023-11-23": 18,
       "2023-10-16": 1059,
