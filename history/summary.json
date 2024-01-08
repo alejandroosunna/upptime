@@ -276,14 +276,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.26%",
+    "uptimeYear": "43.25%",
     "time": 433,
     "timeDay": 257,
     "timeWeek": 384,
     "timeMonth": 424,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2024-01-07": 1438,
+      "2024-01-08": 66,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -505,7 +506,7 @@
     "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.35%",
+    "uptimeMonth": "81.50%",
     "uptimeYear": "95.35%",
     "time": 462,
     "timeDay": 425,
@@ -552,11 +553,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging05.algebraix.com.ico",
     "slug": "staging05",
     "status": "up",
-    "uptime": "76.53%",
+    "uptime": "76.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.74%",
+    "uptimeYear": "66.75%",
     "time": 436,
     "timeDay": 386,
     "timeWeek": 462,
@@ -702,8 +703,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -795,7 +795,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "44.68%",
+    "uptimeYear": "44.69%",
     "time": 387,
     "timeDay": 394,
     "timeWeek": 515,
@@ -1026,8 +1026,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -1119,7 +1118,8 @@
     "timeMonth": 403,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-01-07": 1438,
+      "2024-01-08": 66,
+      "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -1338,8 +1338,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -1392,7 +1391,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.35%",
+    "uptimeYear": "97.37%",
     "time": 421,
     "timeDay": 541,
     "timeWeek": 458,
@@ -1420,8 +1419,7 @@
       "2023-03-07": 915,
       "2023-03-06": 435,
       "2023-03-03": 235,
-      "2023-01-09": 1019,
-      "2023-01-08": 1440
+      "2023-01-09": 1019
     }
   },
   {
@@ -1476,7 +1474,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.37%",
+    "uptimeYear": "94.39%",
     "time": 380,
     "timeDay": 657,
     "timeWeek": 517,
@@ -1513,8 +1511,7 @@
       "2023-02-28": 524,
       "2023-01-11": 1228,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -1522,19 +1519,20 @@
     "url": "https://staging14.algebraix.com/bin/g/start/default/?x_load=0",
     "icon": "https://icons.duckduckgo.com/ip3/staging14.algebraix.com.ico",
     "slug": "staging14",
-    "status": "down",
-    "uptime": "92.95%",
-    "uptimeDay": "83.43%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "89.77%",
+    "status": "up",
+    "uptime": "92.94%",
+    "uptimeDay": "78.93%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "89.76%",
     "time": 364,
-    "timeDay": 333,
-    "timeWeek": 344,
-    "timeMonth": 368,
-    "timeYear": 365,
+    "timeDay": 339,
+    "timeWeek": 346,
+    "timeMonth": 369,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2024-01-07": 238,
+      "2024-01-08": 65,
+      "2024-01-07": 239,
       "2024-01-06": 63,
       "2024-01-05": 72,
       "2023-11-23": 18,
