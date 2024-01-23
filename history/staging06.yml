@@ -1,7 +1,7 @@
 url: https://staging06.algebraix.com/bin/g/start/default/?x_load=0
-status: up
-code: 200
-responseTime: 668
-lastUpdated: 2024-01-23T14:12:25.380Z
+status: down
+code: 502
+responseTime: 473
+lastUpdated: 2024-01-23T14:38:06.651Z
 startTime: 2022-02-25T03:46:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
